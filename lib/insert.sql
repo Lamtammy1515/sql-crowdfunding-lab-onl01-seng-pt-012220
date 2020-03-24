@@ -1,4 +1,5 @@
  
-INSERT INTO users
-INSERT INTO
-INSERT INTO 
+INSERT INTO users(name, age) VALUES ("Mick P.", 27)
+INSERT INTO users(name, age) VALUES ("Mick P.", 27)
+INSERT INTO users(name, age) VALUES ("Mick P.", 27)
+INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)INSERT INTO users(name, age) VALUES ("Mick P.", 27)
